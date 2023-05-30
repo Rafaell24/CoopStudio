@@ -1,0 +1,2 @@
+# CoopStudio
+ primeiro repositorio
